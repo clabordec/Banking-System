@@ -2,7 +2,7 @@
 
 ## Overview
 The Banking System project is designed as a robust, secure, and efficient SQL Server database solution that supports core banking operations. This project leverages industry-standard tools and technologies to manage financial transactions, customer data, and reporting needs for a banking environment.
-<br>
+<br><br>
 The Banking System integrates features such as account management, transaction processing, reporting, and data transformation, all while adhering to best practices in database administration and security.
 
 <br>
