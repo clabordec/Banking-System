@@ -80,7 +80,7 @@ BankingSystem\
 
 ## Contact
 For issues, feature requests, or further information, please contact:
-
-Project Maintainer: Chaanyah Laborde
-Email: chaanyahlaborde@gmail.com
+<br>
+Project Maintainer: Chaanyah Laborde <br>
+Email: chaanyahlaborde@gmail.com <br>
 LinkedIn: [Chaanyah Laborde](https://www.linkedin.com/in/claborde/)
