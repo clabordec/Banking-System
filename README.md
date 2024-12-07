@@ -63,15 +63,15 @@ The Banking System integrates features such as account management, transaction p
 
 ## Directory Structure
 ```graphql
-BankingSystem/
-├── T-SQL_Scripts/
-│   ├── Schema/
-│   ├── Procedures/
-│   ├── Triggers/
-├── SSIS_Packages/
-├── SSRS_Reports/
-├── PowerShell_Scripts/
-├── Documentation/
+BankingSystem\
+├── T-SQL_Scripts\
+│   ├── Schema\
+│   ├── Procedures\
+│   ├── Triggers\
+├── SSIS_Packages\
+├── SSRS_Reports\
+├── PowerShell_Scripts\
+├── Documentation\
 │   ├── UserGuide.pdf
 │   ├── ArchitectureDiagram.png
 ```
