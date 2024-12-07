@@ -30,9 +30,9 @@ The Banking System integrates features such as account management, transaction p
         - Advanced indexing strategies to handle large volumes of transactional data efficiently.
 
 3. SQL Server Integration Services (SSIS)
-- Automates ETL (Extract, Transform, Load) processes for seamless data integration.
-- Utilized for importing/exporting data across systems and maintaining data consistency.
-- Supports automated batch jobs for regular updates.
+   - Automates ETL (Extract, Transform, Load) processes for seamless data integration.
+   - Utilized for importing/exporting data across systems and maintaining data consistency.
+   - Supports automated batch jobs for regular updates.
   
 4. SQL Server Reporting Services (SSRS)
     - Provides detailed, real-time financial and operational reports.
