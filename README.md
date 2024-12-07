@@ -45,20 +45,24 @@ The Banking System integrates features such as account management, transaction p
 <br>
 
 ## Installation & Setup
-Prerequisites
-SQL Server 2016 installed on the server.
-Basic knowledge of T-SQL, SSIS, SSRS, and PowerShell scripting.
-Administrative permissions to execute scripts and manage the SQL Server instance.
-Steps
-Clone or download the project repository.
-Restore the provided .bak file for the initial database setup.
-Execute the T-SQL scripts for schema creation, stored procedures, and data seeding.
-Import SSIS packages for ETL processes using SQL Server Data Tools (SSDT).
-Deploy SSRS reports via the Report Manager portal.
-Schedule PowerShell scripts for automated tasks using Windows Task Scheduler.
-Directory Structure
-graphql
-Copy code
+### Prerequisites
+
+- SQL Server 2016 installed on the server.
+- Basic knowledge of T-SQL, SSIS, SSRS, and PowerShell scripting.
+- Administrative permissions to execute scripts and manage the SQL Server instance.
+
+### Steps
+1. Clone or download the project repository.
+2. Restore the provided .bak file for the initial database setup.
+3. Execute the T-SQL scripts for schema creation, stored procedures, and data seeding.
+4. Import SSIS packages for ETL processes using SQL Server Data Tools (SSDT).
+5. Deploy SSRS reports via the Report Manager portal.
+6. Schedule PowerShell scripts for automated tasks using Windows Task Scheduler.
+
+<br>
+
+## Directory Structure
+```graphql
 BankingSystem/
 ├── T-SQL_Scripts/
 │   ├── Schema/
@@ -70,15 +74,13 @@ BankingSystem/
 ├── Documentation/
 │   ├── UserGuide.pdf
 │   ├── ArchitectureDiagram.png
-Contributions
-Contributions to this project are welcome. Please adhere to the following guidelines:
+```
 
-Fork the repository and create a feature branch.
-Ensure code quality and follow SQL Server best practices.
-Submit a pull request with a detailed description of changes.
-Contact
+<br>
+
+## Contact
 For issues, feature requests, or further information, please contact:
 
-Project Maintainer: [Your Name]
-Email: your.email@domain.com
-LinkedIn: Your LinkedIn Profile
+Project Maintainer: Chaanyah Laborde
+Email: chaanyahlaborde@gmail.com
+LinkedIn: [Chaanyah Laborde](https://www.linkedin.com/in/claborde/)
