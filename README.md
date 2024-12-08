@@ -8,11 +8,11 @@ The Banking System integrates features such as account management, transaction p
 <br>
 
 ## Key Features
-- Efficient Database Management: Built using SQL Server 2016, providing scalability, performance, and reliability.
-- Custom T-SQL Procedures: Implementation of complex business logic using Transact-SQL (T-SQL).
-- Data Integration: Automated data movement and transformation using SQL Server Integration Services (SSIS).
-- Dynamic Reporting: Rich reporting features utilizing SQL Server Reporting Services (SSRS) for real-time insights.
-- Automation and Maintenance: Administrative tasks automated using PowerShell scripts.
+- <b>Efficient Database Management</b>: Built using SQL Server 2016, providing scalability, performance, and reliability.
+- <b>Custom T-SQL Procedures</b>: Implementation of complex business logic using Transact-SQL (T-SQL).
+- <b>Data Integration</b>: Automated data movement and transformation using SQL Server Integration Services (SSIS).
+- <b>Dynamic Reporting</b>: Rich reporting features utilizing SQL Server Reporting Services (SSRS) for real-time insights.
+- <b>Automation and Maintenance</b>: Administrative tasks automated using PowerShell scripts.
 
 <br>
 
