@@ -44,23 +44,6 @@ The Banking System integrates features such as account management, transaction p
 
 <br>
 
-## Installation & Setup
-### Prerequisites
-
-- SQL Server 2016 installed on the server.
-- Basic knowledge of T-SQL, SSIS, SSRS, and PowerShell scripting.
-- Administrative permissions to execute scripts and manage the SQL Server instance.
-
-### Steps
-1. Clone or download the project repository.
-2. Restore the provided .bak file for the initial database setup.
-3. Execute the T-SQL scripts for schema creation, stored procedures, and data seeding.
-4. Import SSIS packages for ETL processes using SQL Server Data Tools (SSDT).
-5. Deploy SSRS reports via the Report Manager portal.
-6. Schedule PowerShell scripts for automated tasks using Windows Task Scheduler.
-
-<br>
-
 ## Directory Structure
 ```graphql
 BankingSystem\
