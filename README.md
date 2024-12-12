@@ -44,6 +44,19 @@ The Banking System integrates features such as account management, transaction p
 
 <br>
 
+## Usage
+- Day-to-Day Operations:
+  - Use the IMS dashboard to monitor inventory levels, restocking needs, and sales trends.
+  - Schedule daily/weekly reports to keep stakeholders informed.
+
+- Data Integration:
+  - Automate data imports from external systems using pre-configured SSIS packages.
+
+- Advanced Reporting:
+  - Leverage SSRS to customize and drill down into specific inventory metrics.
+ 
+<br>
+
 ## Directory Structure
 ```graphql
 BankingSystem\
