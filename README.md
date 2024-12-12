@@ -59,7 +59,7 @@ The Banking System integrates features such as account management, transaction p
 
 ## Directory Structure
 ```graphql
-BankingSystem\
+Banking_System\
 ├── T-SQL_Scripts\
 │   ├── Schema\
 │   ├── Procedures\
